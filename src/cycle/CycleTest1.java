@@ -37,7 +37,7 @@ public class CycleTest1 {
         System.out.println("год " + years + ", баланс " + balance);
 
         Scanner in = new Scanner(System.in);
-        int sum = 10;
+        int sum = 0;
         for (int count = 1; count <= 100; count++) {
             System.out.println("Введите номер:");
             int n = in.nextInt();
