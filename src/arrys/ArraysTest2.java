@@ -3,6 +3,8 @@ package arrys;
 public class ArraysTest2 {
     public static void main(String[] args) {
 
+        // МНОГОМЕРНЫЙ МАССИВ
+
         final double STARTRATE = 10;
         final int NRATE = 6;
         final int NYEARS = 10;
